@@ -1,0 +1,14 @@
+*.aux
+*.bbl
+*.out
+*.toc
+*.synctex
+*.txt
+*.gz
+*.log
+*.bg
+*.blg
+*.bcf
+*.xml
+*.pdf
+/img/declaracioJuradaAutoria_NoGithub.pdf
